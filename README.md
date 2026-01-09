@@ -34,5 +34,5 @@
 </p>
 
 Deployed Projects:
-Liquidation protocol tracker: https://liquidity-dashboard-ljw4.vercel.app/
-Defi Dashboard: https://risk-dashboard-eight.vercel.app/
+- **Liquidation protocol tracker:** https://liquidity-dashboard-ljw4.vercel.app/
+- **Defi Dashboard:** https://risk-dashboard-eight.vercel.app/

@@ -32,3 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
   </a>
 </p>
+
+Deployed Projects:
+Liquidation protocol tracker: https://liquidity-dashboard-ljw4.vercel.app/
+Defi Dashboard: https://risk-dashboard-eight.vercel.app/

@@ -1,38 +1,20 @@
-### Hi there, I am Abhinav Ohri👋
+### Hi, I am Abhinav Ohri 👋
 
-- 🌍 I'm based in India.
-- 🔭 I’m currently working as a part time **PHP Developer** at the **University Of Alberta**, where I'm refining a MediaWiki-based project management tool called GrandForum.
-- 🌱 I'm always deepening my expertise in full-stack development using Python frameworks like Flask and Django and JavaScript libraries like React and Vue.js.
-- 👯 I'm enthusiastic about building full-stack projects and contributing to open-source software.
-- 💬 Ask me about full-stack development, building RESTful APIs, and scientific software development.
-- 📫 How to reach me: You can send me an email at **abhinavohri13@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/abhinav-ohri/)**.
+I am a software engineer in India. I build agentic AI systems and production web platforms.
 
-### 🛠️ Languages and Tools
+- 🔭 I currently work with **Data Collective** on finance, music analytics, and technical-sourcing products.
+- 🤖 I build agentic workflows with **LangGraph**, **LangChain**, and **Gemini**. My work includes human-reviewed document extraction, evidence-based candidate research, and natural-language data analysis.
+- ⚙️ I develop full-stack systems with **Python**, **FastAPI**, **TypeScript**, **React**, and **Node.js**.
+- 🗄️ I run data and asynchronous workloads with **PostgreSQL**, **Redis**, **GCP**, and **Kubernetes**.
+- 🌱 I contribute to open-source projects such as **Weblate**, **Indico**, **Nextcloud**, and **BookBrainz**.
+- 💬 Ask me about agentic systems, retrieval, REST APIs, full-stack development, or open-source software.
+- 📫 Contact me at **[abhinavohri13@gmail.com](mailto:abhinavohri13@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/abhinav-ohri/)**.
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-  </a>
-</p>
+### Languages and tools
 
-Deployed Projects:
-- **Liquidation protocol tracker:** https://liquidity-dashboard-ljw4.vercel.app/
-- **Defi Dashboard:** https://risk-dashboard-eight.vercel.app/
+`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `FastAPI` · `Flutter` · `PostgreSQL` · `Redis` · `MongoDB` · `LangChain` · `LangGraph` · `Gemini` · `GCP` · `AWS` · `Kubernetes`
+
+### Selected projects
+
+- **[VectorSearch](https://github.com/abhinavohri/VectorSearch):** A WordPress RAG plugin with hybrid semantic and keyword search.
+- **[RiskScan](https://risk-dashboard-eight.vercel.app):** A DeFi risk dashboard for protocol solvency, liquidations, and oracle health.
